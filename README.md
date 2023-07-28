@@ -1,12 +1,12 @@
-# python-workshop-2023
+# Berkeley Statistics Python Workshop, 2023
 Materials for Python short course for incoming Statistics grad students.
 
 ## Schedule
 
 The workshop will be in Evans 330 or one of the other rooms in that same hallway.
 
- - Introduction to Python: 9 am - 1:30 pm Wednesday Aug. 16 in Evans 330 (or a nearby room)
- - Project work: 9 am - 1:30 pm Thursday Aug. 17 in Evans 330 (or a nearby room)
+ - Introduction to Python: 9 am - 1:30 pm Wednesday Aug. 16.
+ - Project work: 9 am - 1:30 pm Thursday Aug. 17.
 
 We should be able to provide a few snacks, but given the somewhat late end time, feel free to bring your own and some lunch if you expect to be hungry.
 
@@ -44,8 +44,8 @@ If you have an SCF account, you have a couple more options:
 
   3. [SSH to any SCF Linux machine](https://statistics.berkeley.edu/computing/ssh) and run Python from the command line. 
 
-  4. Login to the [SCF JupyterHub](https://jupyter.stat.berkeley.edu)
- (using your SCF username and password) to access a Jupyter IPython notebook. Further instructions are [here](https://statistics.berkeley.edu/computing/jupyterhub)
+  4. Login to the [SCF JupyterHub](https://jupyter.stat.berkeley.edu) (using your SCF username and password) to access a Jupyter IPython notebook. Further instructions are [here](https://statistics.berkeley.edu/computing/jupyterhub).
+ 
  
  ## Help
  

@@ -1,7 +1,16 @@
 # python-workshop-2023
 Materials for Python short course for incoming Statistics grad students.
 
-## Logistics
+## Schedule
+
+The workshop will be in Evans 330 or one of the other rooms in that same hallway.
+
+ - Introduction to Python: 9 am - 1:30 pm Wednesday Aug. 16 in Evans 330 (or a nearby room)
+ - Project work: 9 am - 1:30 pm Thursday Aug. 17 in Evans 330 (or a nearby room)
+
+We should be able to provide a few snacks, but given the somewhat late end time, feel free to bring your own and some lunch if you expect to be hungry.
+
+## Content
 
 The workshop content is in Markdown in `python.md` with a rendered HTML version in `python.html` and an Jupyter notebook version in `python.ipynb`. The mini-project material is in `project.md/project.html/project.ipynb`.
 
@@ -10,12 +19,10 @@ To download the materials on your computer, you have two options:
  - clone this GitHub repository (if you are familiar with Git)
  - download [this zip file](https://github.com/berkeley-scf/python-workshop-2023/archive/gh-pages.zip)
 
-Schedule:
-
- - Introduction to Python: 9 am - 1:30 pm Wednesday Aug. 16 in Evans 330 (or a nearby room)
- - Project work: 9 am - 1:30 pm Thursday Aug. 17 in Evans 330 (or a nearby room)
-
-We should be able to provide a few snacks, but given the somewhat late end time, feel free to bring your own and some lunch if you expect to be hungry.
+We'll primarily be directly working with the Python code in the Markdown or notebook versions of the files, but you can see static HTML versions:
+ 
+  - [Day 1: Intro to Python](python.html)
+  - [Day 2: Project](project.html)
 
 ## Instructions for accessing Python
 

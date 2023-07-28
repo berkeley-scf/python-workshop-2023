@@ -6,12 +6,6 @@ title: Introduction to Python
 Background
 ================
 
-Etherpad
------------
-
-We'll use a shared online document hosted at etherpad.net to share code snippets, problem solutions, syntax, etc.
-
-Please open <https://etherpad.net/p/python-bootcamp-2018> in a browser window.
 
 Preparation
 ---------------

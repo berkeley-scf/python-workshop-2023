@@ -28,17 +28,19 @@ In the workshop, I'll primarily use both approaches.
 Below are a couple options for having access to Python. Please make sure at least one of these works for you before you arrive at the short course. The last two options require a computing account with the department through the Statistical Computing Facility, which you request here:
 https://scf.berkeley.edu/account
 
- 1) Download and install [Anaconda (Python 3.11 distribution)](https://www.anaconda.com/products/individual) on your laptop. Click "Download" and then click 64-bit "Graphical Installer" for your current operating system.
+  1. Download and install [Anaconda (Python 3.11 distribution)](https://www.anaconda.com/products/individual) on your laptop. Click "Download" and then click 64-bit "Graphical Installer" for your current operating system.
 
- 2) Use the [UC Berkeley DataHub](https://datahub.berkeley.edu/hub/login?next=%2Fhub%2F) to access Python via Jupyter notebooks. You can launch a Jupyter session that has access to the workshop materials [here](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fberkeley-scf%2Fpython-workshop-2023&urlpath=lab%2Ftree%2Fpython-workshop-2023%2F). Then just double-click on the `python.ipynb` file in the left pane and it should open in a notebook.
+  2. Use the [UC Berkeley DataHub](https://datahub.berkeley.edu/hub/login?next=%2Fhub%2F) to access Python via Jupyter notebooks. You can launch a Jupyter session that has access to the workshop materials [here](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fberkeley-scf%2Fpython-workshop-2023&urlpath=lab%2Ftree%2Fpython-workshop-2023%2F). Then just double-click on the `python.ipynb` file in the left pane and it should open in a notebook.
  
  
 If you have an SCF account, you have a couple more options:
 
- 3) [SSH to any SCF Linux machine](https://statistics.berkeley.edu/computing/ssh) and run Python from the command line. [TBD]
+  3. [SSH to any SCF Linux machine](https://statistics.berkeley.edu/computing/ssh) and run Python from the command line. 
 
- 4) Login to the [SCF JupyterHub](https://jupyter.stat.berkeley.edu)
+  4. Login to the [SCF JupyterHub](https://jupyter.stat.berkeley.edu)
  (using your SCF username and password) to access a Jupyter IPython notebook. Further instructions are [here](https://statistics.berkeley.edu/computing/jupyterhub)
+ 
+ ## Help
  
  If you have questions about the workshop please don't hesitate to email me.
  

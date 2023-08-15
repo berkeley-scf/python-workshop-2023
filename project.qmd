@@ -1,9 +1,17 @@
 ---
 title: Python bootcamp project 
-...
+author: "Chris Paciorek"
+date: "2023-08-11"
+format:
+  html:
+    theme: cosmo
+    toc: true
+    code-copy: true
+    code-block-background: true
+---
 
-Background
-============
+# Background
+
 
 The goal of the project is to analyze the tweeting behavior of the 100 US Senators in the US Senate. Each senator has a Twitter account and puts out tweets reflecting their thought and communicating with the people in the state they represent.
 
@@ -15,8 +23,8 @@ For background information only: The file **project/fetch_senator_tweets.py** do
 
 I've already run the code mentioned above and downloaded the data for you.  The downloaded information on the senators' twitter accounts is in *project/senators-list.json* in the Github repository, while the downloaded tweets are in *timelines.json*.  *timelines.json* is too big to put in the Github repository. You can find it at <http://www.stat.berkeley.edu/~paciorek/transfer/timelines.json>. Note that there are only 200 tweets for each senator because of limits on how many tweets can be accessed in a given request.
 
-Questions
-===========
+# Questions
+
 
 1. Load the *senators-list.json* and *timelines.json* files into Python as objects called *senators* and *timelines*.
 

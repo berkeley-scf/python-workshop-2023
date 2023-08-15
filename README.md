@@ -3,16 +3,16 @@ Materials for Python short course for incoming Statistics grad students.
 
 ## Schedule
 
-The workshop will be in Evans 330 or one of the other rooms in that same hallway.
+The workshop will be in Evans 332.
 
  - Introduction to Python: 9 am - 1:30 pm Wednesday Aug. 16.
  - Project work: 9 am - 1:30 pm Thursday Aug. 17.
 
-We should be able to provide a few snacks, but given the somewhat late end time, feel free to bring your own and some lunch if you expect to be hungry.
+We'll provide a few snacks, but given the somewhat late end time, feel free to bring your own and some lunch if you expect to be hungry.
 
 ## Content
 
-The workshop content is in Markdown in `python.md` with a rendered HTML version in `python.html` and an Jupyter notebook version in `python.ipynb`. The mini-project material is in `project.md/project.html/project.ipynb`.
+The workshop content is in Markdown in `python.qmd` with a rendered HTML version in `python.html` and an Jupyter notebook version in `python.ipynb`. The mini-project material is in `project.qmd/project.html/project.ipynb`. The `qmd` files are the new-ish Quarto format, but are basically simple Markdown files with Python code chunks interspersed.
 
 To download the materials on your computer, you have two options:
 

@@ -46,7 +46,7 @@ pip install --user numpy
 
 ```
 
-For additional help with installation, please see the [this SCF documentation](http://ipython.org/install.html) or this [Statistics 243 documentation]().
+For additional help with installation, please see the [this SCF documentation](https://statistics.berkeley.edu/computing/software/python) or this [Statistics 243 documentation](https://berkeley-stat243.github.io/stat243-fall-2023/howtos/accessingPython.html).
 
 
 ## Resources
@@ -77,7 +77,7 @@ jupyter notebook
 ```
 
 
-Alternatively you can access Jupyter notebooks through a service called JupyterHub, in particular the campus DataHub or SCF JupyterHub.
+Alternatively you can access Jupyter notebooks through a service called JupyterHub, in particular the [campus DataHub or SCF JupyterHub](https://berkeley-stat243.github.io/stat243-fall-2023/howtos/accessingPython.html#python-via-jupyter-notebook).
 
 Side note: to have all output of printing objects to the screen by typing the object name (not just the last result) printed in the Jupyter notebook, you can run this in a cell in your notebook.
 

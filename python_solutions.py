@@ -173,10 +173,10 @@ x = np.random.normal(size = (10, 3))
 
 # pandas
 
-tmp = dat2007.groupby('continent', as_index=False).mean()
+tmp = dat2007.groupby('continent', as_index=False)['lifeExp'].mean()
+tmp.rename(columns={"lifeExp": "lifeExpContinent"}, inplace = True)
 
-dat2007.merge(tmp[['continent', 'lifeExp']], left_on='continent',
-              right_on='continent') 
+dat2007.merge(tmp, left_on='continent', right_on='continent') 
 
 
 # matplotlib

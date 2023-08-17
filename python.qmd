@@ -325,9 +325,8 @@ Note that `?` and `??` only work in IPython (or a Jupyter notebook). For help in
   a.ndim
   np.ndim(a)
   ```
-- Type `np.ndarray?` at an IPython prompt. Briefly skim the docstring.
-    `ndarray` is the basic data structure provided by NumPy. We will
-    examine it in much more detail later.
+- Type `np.array?` at an IPython prompt. Briefly skim the docstring.
+    `nparray` allows you to construct numpy arrays.
 - Type `np.` followed by the `<Tab>` key at an IPython prompt. Choose
     two or three of the completions and use `?` to view their
     docstrings. In particular, pay attention to the examples provided
@@ -1105,7 +1104,7 @@ Now let's see the sort of split-apply-combine functionality that is popular in d
 ```{python}
 dat2007 = dat[dat.year == 2007].copy()  
 
-dat2007.groupby('continent', as_index=False).mean()
+dat2007.groupby('continent', as_index=False)[['lifeExp','gdpPercap']].mean()
 
 def stdize(vals):
     return((vals - vals.mean()) / vals.std())
